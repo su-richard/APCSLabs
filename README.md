@@ -1,2 +1,2 @@
 # APCSLabs
-Labs for AP Computer Science A course
+Labs for AP Computer Science A
